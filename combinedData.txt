@@ -1,0 +1,314 @@
+Raspberries| 6 oz| $2.99| meijer.txt
+Organic| Bananas| 5-8ct| meijer.txt
+Avocado| small| $0.77| meijer.txt
+Blueberries| 1 pt| $2.99| meijer.txt
+Gala Apples| 3 lb| $4.79| meijer.txt
+Clementine Mandarins| 3 lb| $3.99| meijer.txt
+Cantaloupe| large| $3.29| meijer.txt
+Blackberries| 6 oz| $2.99| meijer.txt
+Golden Pineapple| large| $2.49| meijer.txt
+Navel Orange| large| Price not found| meijer.txt
+Fresh from Meijer Fruit Frenzy| 10 oz| $3.99| meijer.txt
+Lemon| large| $0.69| meijer.txt
+Fruit Palooza| 28 oz| $10.99| meijer.txt
+Minute Maid Fruit Punch| Made with Real Fruit Juice| 59 oz| meijer.txt
+Clementine Mandarins| 5 lb| $8.29| meijer.txt
+Red Grapefruit| 5 lb| $5.99| meijer.txt
+Dragon Fruit| large| $4.99| meijer.txt
+Fresh from Meijer Watermelon Chunks| 10 oz| $3.29| meijer.txt
+Fruit by the Foot Fruit Flavored Snacks| Variety Pack| 4.5 oz| meijer.txt
+Meijer Mixed Fruit with Extra Cherries| 4 Pack| $2.79| meijer.txt
+Nutri-Grain Soft Baked Breakfast Bars Blueberry| 10.4 oz| 8 Count| meijer.txt
+Nutri-Grain Soft Baked Breakfast Bars Strawberry| 10.4 oz| 8 Count| meijer.txt
+Mcintosh Apples| 3 lb| $2.99| meijer.txt
+Fresh Gourmet Dried Figs Mission| 8 oz| $4.39| meijer.txt
+Red Delicious Apples| 3 lb| $4.79| meijer.txt
+Lime| large| $0.49| meijer.txt
+Fresh from Meijer Strawberries and Pineapple| 10 oz| $5.29| meijer.txt
+Pero Family Farms Snipped Green Beans| 12 oz| $2.99| meijer.txt
+Meijer 100% Apple Juice| 64 oz| $2.09| meijer.txt
+Red Seedless Grapes| Bag| $6.23| meijer.txt
+Del Monte Fruit Cups| Family Variety| 12 Count| meijer.txt
+Dole Ready-Cut Fruit Strawberries| Peaches| Banana 12/14 oz| meijer.txt
+Fresh from Meijer Mango Chunks| 10 oz| $4.29| meijer.txt
+Meijer Apple Pie Cider| 64 oz| $2.99| meijer.txt
+Mixed Fruit Tray with Dip| 32 oz| $14.99| meijer.txt
+Meijer Mixed Fruit in 100% Juice| 4 oz| $2.79| meijer.txt
+Welch's Bi Color Grape| 3 lb| $8.99| meijer.txt
+Del Monte Fruit Cup Snacks No Sugar Added Variety Pack| 12 count| $8.49| meijer.txt
+Uncrustables Peanut Butter & Grape Jelly Sandwich| 15-Count Pack| $12.49| meijer.txt
+Pitaya Dragon Fruit Smoothie Packs| 4 ct| $5.49| meijer.txt
+Lemons| 2 lb| $3.99| meijer.txt
+Meijer Mixed Fruit with Extra Cherries| 15 oz| $1.29| meijer.txt
+Dole® Mixed Berries Frozen Fruit| 40 oz| 5 ct| meijer.txt
+Juicing Oranges| 4 lb| $5.99| meijer.txt
+Sweet Grape Tomatoes| Pint| $2.49| meijer.txt
+Honeydew Melon| large| $4.99| meijer.txt
+(4 Pack) DOLE Fruit Bowls® Yellow Cling Diced Peaches| 4oz Cups| $2.99| meijer.txt
+Capri Sun Fruit Punch Flavored Juice Drink Blend| 10 ct Box| 6 fl oz Pouches| meijer.txt
+(4 Pack) DOLE Fruit Bowls® Mixed Fruit| 4oz Cups| $2.99| meijer.txt
+Dippin' Stix Sliced Apples & Caramel| 2.75 oz| $1.55| meijer.txt
+Honeycrisp Apples| 3 lb| organic| meijer.txt
+Mott's Fruit Flavored Snacks| Variety Value Pack| Gluten Free| meijer.txt
+Mott's 100% Apple Juice| 64 oz| $2.99| meijer.txt
+Meijer Mandarin Oranges in 100% Fruit Juice| 4 Pack| $2.79| meijer.txt
+Meijer Mangos in 100% Fruit Juice| 4 Pack| $2.79| meijer.txt
+Fuji Apples| 3 lb| $4.79| meijer.txt
+Dippin' Stix Sliced Apples & Cinnamon Fruit Dip| 2.75oz| $1.59| meijer.txt
+Watermelon| seedless| $6.99| meijer.txt
+Ambrosia Apple| 1 ct| $0.75| meijer.txt
+Welch's Red Seedless Grapes| 3 lb| $8.99| meijer.txt
+Pink Lady Apples| 3 lb| $4.79| meijer.txt
+Blake's Orchard & Cider Mill Apple Cider| 1 Gallon| $7.99| meijer.txt
+Granny Smith Apples| 3 lb| $4.79| meijer.txt
+Mott's 100% Original Apple Juice| 8 fl oz bottles| 6 pack| meijer.txt
+Honeycrisp Apples| 3 lbs| $8.99| meijer.txt
+Meijer Concord Grape Jelly| 18 oz| $1.99| meijer.txt
+Apple Cider| 128 fl oz| 1 gallon| meijer.txt
+Fuji Apples| 3 lbs| organic| meijer.txt
+Golden Delicious Apples| 3 lb| $4.79| meijer.txt
+Honeycrisp Apple| organic| $3.37| meijer.txt
+Welch's Green Seedless Grapes| 3 lb| $8.99| meijer.txt
+Gala Apples| 3 lb| organic| meijer.txt
+Blake's Orchard & Cider Mill Apple Cider| 1/2 Gallon| $4.99| meijer.txt
+Old Orchard 100% Apple Juice| 64 oz| $2.79| meijer.txt
+SweeTango Apple| 3 lb| $6.29| meijer.txt
+Mixed Fruit Tray| 72 oz| $22.99| meijer.txt
+Mixed Fruit Tray with Dip| 72 oz| $24.99| meijer.txt
+Meijer Fresh Pressed Apple Juice| 64 oz| $3.99| meijer.txt
+(4 cups) Dole No Sugar Added Mixed Fruit| 4oz Fruit Bowls| $2.99| meijer.txt
+Meijer Unsweetened Applesauce| 6 Pack| $2.29| meijer.txt
+Meijer 12-Ct Cherry Mixed Fruit Bowls| 12/4 OZ| $6.99| meijer.txt
+(4 Pack) DOLE Fruit Bowls® Cherry Mixed Fruit| 4oz Cups| $2.99| meijer.txt
+Indian Summer Premium Apple Juice| 64 oz| $2.45| meijer.txt
+Fresh from Meijer Watermelon Chunks| 20 oz| $5.29| meijer.txt
+Mott's for Tots Apple| 64 fl oz bottle| $2.99| meijer.txt
+Funables Fruit Snacks Mixed Berry 40 count| .8 oz| $9.69| meijer.txt
+Gala Apple| organic| $1.45| meijer.txt
+(4 Pack) DOLE Fruit Bowls® NSA Cherry Mixed Fruit| 4oz Cups| $2.99| meijer.txt
+Welch's Reduced Sugar Fruit Snacks| 8 ct| $3.09| meijer.txt
+Meijer Chunky Mixed Fruit in 100% Fruit Juice| 15 oz| $1.29| meijer.txt
+Del Monte® Lite Sliced Bartlett Pears in Extra Light Syrup| 15 oz. Can| $1.99| meijer.txt
+(12 Pack) Dole® Fruit Bowls Cherry Mixed Fruit| 4oz Cups| $8.79| meijer.txt
+Fruit by the Foot| Fruit Snacks| Berry and Strawberry| meijer.txt
+Mott's 100% Apple Juice| Original| 1 gal| meijer.txt
+Indian Summer Apple Juice| 128 oz| $4.79| meijer.txt
+Simply Apple| 52 oz| $4.19| meijer.txt
+Betty Crocker Fruit Roll-Ups Snacks| Strawberry Sensation| 0.5 oz Rolls| meijer.txt
+Mariani Premium Mixed Fruit| 32 oz| $12.99| meijer.txt
+Meijer Ruby Red Grapefruit Juice| 64 oz| $3.29| meijer.txt
+(12 Pack) DOLE Fruit Bowls® Peaches in Strawberry Gel| 4oz Cups| $8.79| meijer.txt
+Fresh from Meijer Fruit Frenzy| 20 oz| $5.99| meijer.txt
+Meijer Frozen Fruit Medley| 64 oz| $11.99| meijer.txt
+Del Monte Cherry Mixed Fruit Cup| 12 - 4 oz cups| $8.49| meijer.txt
+True Goodness Organic Apple Juice| 64 oz| $3.49| meijer.txt
+Meijer Mandarin Oranges in Fruit Juice| 15 oz| $1.29| meijer.txt
+Meijer 100% Grape Juice| 64 oz| $3.29| meijer.txt
+Annie's Homegrown Organic Really Peely Fruit Tape Swirly Strawberry| 6 Rolls| $4.49| meijer.txt
+Buddy Fruits All Natural Multi Fruits Pouch| 3.2 Ounce| $1.00| Freshthyme.txt
+Buddy Fruits Strawberry & Apple Blended Fruits 12pk| 38.4 Ounce| $12.99| Freshthyme.txt
+Buddy Fruits All Natural Banana & Apple Blended Fruits Pouch| 3.2 Ounce| $1.00| Freshthyme.txt
+Buddy Fruits All Natural Blueberry & Apple Blended Fruits Pouch| 3.2 Ounce| $1.00| Freshthyme.txt
+Buddy Fruits All Natural Strawberry & Apple Blended Fruits Pouch| 3.2 Ounce| $1.00| Freshthyme.txt
+Buddy Fruits Original Apple Cinnamon Pure Blended Fruits Pouch| 3.2 Ounce| $1.00| Freshthyme.txt
+Buddy Fruits All Natural Mango, Banana & Passion Blended Fruits Pouch| 3.2 Ounce| $1.00| Freshthyme.txt
+Healthy Oatmeal Bites With Dried Fruits| 6 Ounce| $7.79| Freshthyme.txt
+Buddy Fruits & Veggies Apple, Carrot & Orange Pouch| 3.2 Ounce| $1.00| Freshthyme.txt
+Ambrosia Apple Tote Bag| 1 Pound| $1.49| Freshthyme.txt
+Asian Pears| 1 Each| $2.99| Freshthyme.txt
+Bag Grapefruit| 5 Pound| $5.99| Freshthyme.txt
+Bag Key Limes| 16 Ounce| $4.99| Freshthyme.txt
+Bag Lemons| 2 Pound| $3.99| Freshthyme.txt
+Bananas| 0.5 Pound| $0.35| Freshthyme.txt
+Bartlett Pears| 0.5 Pound| $1.00| Freshthyme.txt
+Black Diamond Seedless Cut Watermelon| 0.75 Pound| $0.74| Freshthyme.txt
+Black Diamond Seedless Watermelon| 1 Each| $7.99| Freshthyme.txt
+Black Pluots| 0.3 Pound| $0.90| Freshthyme.txt
+Blackberries Package| 6 Ounce| $2.99| Freshthyme.txt
+Blood Oranges| 2 Pound| $3.99| Freshthyme.txt
+Blueberries| 6 Ounce| $2.99| Freshthyme.txt
+Buddha Hand| 1 Each| $9.99| Freshthyme.txt
+Cantaloupe| 1 Each| $2.99| Freshthyme.txt
+Cara Cara Oranges| 0.8 Pound| $1.59| Freshthyme.txt
+Cara Cara Oranges 2 Lb| 2 Pound| $3.99| Freshthyme.txt
+Cherimoya| 1.2 Pound| $14.99| Freshthyme.txt
+Clementine Tangerines Bag| 2 Pound| $2.99| Freshthyme.txt
+Coco Thumb Young Coconut| 1 Each| $5.99| Freshthyme.txt
+Coconuts| 1 Each| $1.99| Freshthyme.txt
+Cored Pineapple| 16 Ounce| $3.99| Freshthyme.txt
+Cosmic Crisp Apples| 0.9 Pound| $1.79| Freshthyme.txt
+Cotton Candy Grapes| 3 Pound| $14.97| Freshthyme.txt
+D'anjou Pears| 0.6 Pound| $1.19| Freshthyme.txt
+Donut Peaches| 0.3 Pound| $1.20| Freshthyme.txt
+Dragon Fruit| 0.8 Pound| $1.59| Freshthyme.txt
+Easy Peel Seedless Mandarins| 0.4 Pound| $1.20| Freshthyme.txt
+Fingerlimes| 1.5 Ounce| $10.99| Freshthyme.txt
+Fresh Cut Seeded Watermelon Halves| 1.5 Pound| $1.49| Freshthyme.txt
+Fresh Cut Seedless Watermelon Halves| 1.5 Pound| $1.49| Freshthyme.txt
+Fresh Figs| 0.4 Pound| $2.00| Freshthyme.txt
+Fuji Apples Tote Bag| 3 Pound| $4.47| Freshthyme.txt
+Gala Apples| 0.65 Pound| $1.29| Freshthyme.txt
+Gala Apples Tote Bag| 3 Pound| $4.47| Freshthyme.txt
+Gold Apples| 0.65 Pound| $1.29| Freshthyme.txt
+Gold Nugget Seedless Mandarins| 2 Pound| $3.99| Freshthyme.txt
+Golden Berries| 6 Ounce| $3.99| Freshthyme.txt
+Granny Smith Apples| 0.65 Pound| $1.29| Freshthyme.txt
+Grapefruit| 1 Each| $1.99| Freshthyme.txt
+Gum Drop Grapes| 3 Pound| $14.97| Freshthyme.txt
+Halos Clementines 5lb Box| 1 Each| $6.99| Freshthyme.txt
+Hass Avocados| 1 Each| $0.69| Freshthyme.txt
+Hass Avocados Bag| 6 Each| $2.99| Freshthyme.txt
+Heirloom Navel Oranges| 0.65 Pound| $1.29| Freshthyme.txt
+Honeycrisp Apples| 0.85 Pound| $1.69| Freshthyme.txt
+Honeycrisp Apples Tote Bag| 3 Pound| $5.97| Freshthyme.txt
+Honeydew Melon| 1 Each| $2.99| Freshthyme.txt
+Jackfruit| 19 Pound| $37.81| Freshthyme.txt
+Jonagold Apples Tote Bag| 2.5 Pound| $3.73| Freshthyme.txt
+Jumbo Black Seedless Grapes| 2.5 Pound| $7.48| Freshthyme.txt
+Jumbo Green Seedless Grapes| 3 Pound| $8.97| Freshthyme.txt
+Jumbo Red Seedless Grapes| 3 Pound| $8.97| Freshthyme.txt
+Kiwano Melon| 1 Each| $8.99| Freshthyme.txt
+Kiwi| 1 Each| $0.69| Freshthyme.txt
+Large Hass Avocados| 1 Each| $1.99| Freshthyme.txt
+Lemons| 1 Each| $0.99| Freshthyme.txt
+Limes| 1 Each| $0.69| Freshthyme.txt
+Lucy Glo Apples| 1 Pound| $2.99| Freshthyme.txt
+Lucy Rose Apples| 1 Pound| $2.99| Freshthyme.txt
+Mango| 1 Each| $1.49| Freshthyme.txt
+Mangosteen| 1 Each| $2.99| Freshthyme.txt
+Mcintosh Apples Tote Bag| 2.5 Pound| $3.73| Freshthyme.txt
+Mexican Papaya| 3 Pound| $5.97| Freshthyme.txt
+Mini Seedless Watermelons| 1 Each| $2.99| Freshthyme.txt
+Molly Pop Candy Heart Red Seedless Grapes| 1 Pound| $2.99| Freshthyme.txt
+Moon Drop Grapes| 3 Pound| $14.97| Freshthyme.txt
+Mottled Pluots| 0.3 Pound| $0.90| Freshthyme.txt
+Navel Oranges| 0.8 Pound| $1.59| Freshthyme.txt
+Navel Oranges Bag| 3 Pound| $2.99| Freshthyme.txt
+Organic Bag Fuji Apples| 2 Pound| $4.99| Freshthyme.txt
+Organic Bag Gala Apples| 2 Pound| $4.99| Freshthyme.txt
+Organic Bag Granny Smith Apples| 2 Pound| $4.99| Freshthyme.txt
+Organic Bag Grapefruit| 4 Pound| $7.99| Freshthyme.txt
+Organic Bag Honeycrisp Apples| 2 Pound| $5.99| Freshthyme.txt
+Organic Bag Lemons| 1 Pound| $4.99| Freshthyme.txt
+Organic Bag Pink Lady Apples| 2 Pound| $4.99| Freshthyme.txt
+Organic Bananas| 0.5 Pound| $0.40| Freshthyme.txt
+Organic Bartlett Pears| 0.6 Pound| $1.19| Freshthyme.txt
+Organic Blackberries| 6 Ounce| $4.99| Freshthyme.txt
+Organic Blueberries| 6 Ounce| $3.99| Freshthyme.txt
+Organic Clementines Tangerines Bag| 2 Pound| $5.99| Freshthyme.txt
+Organic Cranberries| 8 Ounce| $2.99| Freshthyme.txt
+Organic Fuji Apples| 0.65 Pound| $1.94| Freshthyme.txt
+Organic Gala Apples| 0.65 Pound| $1.94| Freshthyme.txt
+Organic Granny Smith Apples| 0.65 Pound| $1.94| Freshthyme.txt
+Organic Grapefruit| 1 Each| $2.99| Freshthyme.txt
+Organic Green Seedless Grapes| 2.5 Pound| $9.98| Freshthyme.txt
+Organic Hass Avocados| 1 Each| $1.99| Freshthyme.txt
+Organic Honeycrisp Apples| 0.85 Pound| $2.54| Freshthyme.txt
+Organic Kiwi| 16 Ounce| $4.99| Freshthyme.txt
+Organic Lemons| 1 Each| $0.99| Freshthyme.txt
+Organic Limes| 1 Each| $1.49| Freshthyme.txt
+Organic Limes 1lb Bag| 16 Ounce| $5.99| Freshthyme.txt
+Organic Mango| 1 Each| $1.99| Freshthyme.txt
+Organic Navel Oranges| 0.8 Pound| $1.59| Freshthyme.txt
+Organic Navel Oranges Bag| 3 Pound| $5.49| Freshthyme.txt
+Organic Pineapple| 1 Each| $6.99| Freshthyme.txt
+Organic Pink Lady Apples| 0.65 Pound| $1.62| Freshthyme.txt
+Organic Raspberries| 6 Ounce| $3.99| Freshthyme.txt
+Organic Red Plums| 0.3 Pound| $1.20| Freshthyme.txt
+Organic Red Seedless Grapes| 2.5 Pound| $9.98| Freshthyme.txt
+Organic Strawberries| 16 Ounce| $5.99| Freshthyme.txt
+Organic Valencia Oranges Bag| 4 Pound| $6.99| Freshthyme.txt
+Organic Yellow Nectarines| 0.5 Pound| $2.00| Freshthyme.txt
+Organic Yellow Peaches| 0.5 Pound| $2.00| Freshthyme.txt
+Passion Fruit| 1 Each| $3.99| Freshthyme.txt
+Pineapple| 1 Each| $2.99| Freshthyme.txt
+Pink Lady Apples| 3 Pound| $5.97| Freshthyme.txt
+Plantain Bananas| 1 Pound| $1.49| Freshthyme.txt
+Plums| 0.3 Pound| $0.90| Freshthyme.txt
+Pomegranates| 1 Each| $3.99| Freshthyme.txt
+Prickly Cactus Pear| 0.5 Pound| $1.00| Freshthyme.txt
+Rambutan| 8 Ounce| $5.99| Freshthyme.txt
+Raspberries| 6 Ounce| $2.99| Freshthyme.txt
+Red Delicious Apples| 0.5 Pound| $1.00| Freshthyme.txt
+Red Pears| 0.6 Pound| $1.19| Freshthyme.txt
+Red Pluots| 0.4 Pound| $1.20| Freshthyme.txt
+Rockit Apples 3lb| 1 Each| $6.99| Freshthyme.txt
+Seeded Watermelon| 1 Each| $7.99| Freshthyme.txt
+Seedless Watermelon| 1 Each| $7.99| Freshthyme.txt
+Starfruit| 1 Each| $2.99| Freshthyme.txt
+Strawberries| 16 Ounce| $4.99| Freshthyme.txt
+Strawberries| 32 Ounce| $7.49| Freshthyme.txt
+Sugarbee Apples| 1 Pound| $2.99| Freshthyme.txt
+Sugarbee Apples 2lb Bag| 1 Each| $4.99| Freshthyme.txt
+Sumo Mandarins 2 Lb Bag| 2 Pound| $5.99| Freshthyme.txt
+Sungold Kiwi| 16 Ounce| $6.99| Freshthyme.txt
+Sweetango Apples Tote Bag| 3 Pound| $5.97| Freshthyme.txt
+White Nectarines| 0.3 Pound| $0.90| Freshthyme.txt
+White Peaches| 0.5 Pound| $1.50| Freshthyme.txt
+Wonderful Seedless Lemons 2lb| 2 Each| $4.99| Freshthyme.txt
+Yellow Mango| 1 Each| $1.49| Freshthyme.txt
+Yellow Nectarines| 0.5 Pound| $1.50| Freshthyme.txt
+Yellow Peaches| 0.6 Pound| $1.79| Freshthyme.txt
+Olympic| | $10.99| Saveonfoods.txt
+Olympic| 650 Gram| $6.49| Saveonfoods.txt
+Olympic| 8 Each| $6.99| Saveonfoods.txt
+BC Tree Fruits| | $6.99| Saveonfoods.txt
+Dairyland| 473 Millilitre| $4.89| Saveonfoods.txt
+Dairyland| 946 Millilitre| $6.99| Saveonfoods.txt
+Apples| 67 Gram| $1.36| Saveonfoods.txt
+Apples| 25 Gram| $0.84| Saveonfoods.txt
+Grape Tomatoes| 284 Gram| $4.49| Saveonfoods.txt
+Grapes| 1000 Gram| $12.76| Saveonfoods.txt
+Grapes| 1000 Gram| $12.76| Saveonfoods.txt
+Large| 5 Gram| $1.33| Saveonfoods.txt
+Mushrooms| | $5.69| Saveonfoods.txt
+Pears| 190 Gram| $1.25| Saveonfoods.txt
+Peppers| 1 Bag, 2 Pound| $7.99| Saveonfoods.txt
+Peppers| 226 Gram| $1.99| Saveonfoods.txt
+Potatoes| 33 Gram| $1.74| Saveonfoods.txt
+Russet| 320 Gram| $1.90| Saveonfoods.txt
+Tomatoes| 454 Gram| $6.99| Saveonfoods.txt
+Tomatoes| 150 Gram| $1.15| Saveonfoods.txt
+Yams| 400 Gram| $2.20| Saveonfoods.txt
+Asparagus| | $6.14| Saveonfoods.txt
+Avocados| 4 Each| $5.69| Saveonfoods.txt
+Avocados| 1 Each| $2.19| Saveonfoods.txt
+Bananas| 200 Gram| $0.57| Saveonfoods.txt
+Bananas| 200 Gram| $0.35| Saveonfoods.txt
+Blueberries| 1 Pint, 1 Each| $7.99| Saveonfoods.txt
+Broccoli| 280 Gram| $2.15| Saveonfoods.txt
+Carrots| 100 Gram| $0.59| Saveonfoods.txt
+Cauliflower| 1 Each| $5.99| Saveonfoods.txt
+Celery| 675 Gram| $4.45| Saveonfoods.txt
+Corn| 1 Each| $1.19| Saveonfoods.txt
+Cucumber| 1 Each| $2.99| Saveonfoods.txt
+Large| 385 Gram| $2.28| Saveonfoods.txt
+Lemons| 1 Each| $1.00| Saveonfoods.txt
+Lettuce| 1 Each| $3.99| Saveonfoods.txt
+Limes| 1 Each| $1.19| Saveonfoods.txt
+Oranges| | $6.99| Saveonfoods.txt
+Oranges| 385 Gram| $2.28| Saveonfoods.txt
+Raspberries| 170 Gram| $3.99| Saveonfoods.txt
+Raspberries| 1 Pint, 1 Each| $8.99| Saveonfoods.txt
+Strawberries| 1lb, 1 Each| $4.99| Saveonfoods.txt
+Western Family| 3 Each| $3.99| Saveonfoods.txt
+Zucchini| 400 Gram| $2.81| Saveonfoods.txt
+Cucumbers| 2lb, 907 Gram| $6.49| Saveonfoods.txt
+Green Onions| 1 Each| $1.99| Saveonfoods.txt
+Onions| 335 Gram| $2.21| Saveonfoods.txt
+Onions| 215 Gram| $0.61| Saveonfoods.txt
+Motts| 907 Gram| $16.99| Saveonfoods.txt
+Mott's| | $4.49| Saveonfoods.txt
+Tomatoes| 90 Gram| $0.59| Saveonfoods.txt
+Mushrooms| | $5.69| Saveonfoods.txt
+Mott's| | $4.49| Saveonfoods.txt
+Brussels| 1 Pound| $4.99| Saveonfoods.txt
+Cilantro| 1 Each| $1.99| Saveonfoods.txt
+Oasis| 960 Millilitre| $2.99| Saveonfoods.txt
+Fresh Express| 227 Gram| $3.99| Saveonfoods.txt
+Mott's| | $4.49| Saveonfoods.txt
+Western Family| 4 Each| $7.99| Saveonfoods.txt
+Apples| 160 Gram| $1.05| Saveonfoods.txt
+E.D. Smith| 500 Millilitre| $5.99| Saveonfoods.txt
+Peppers| 240 Gram| $2.11| Saveonfoods.txt
+Pepperidge Farm| 180 Gram| $4.29| Saveonfoods.txt

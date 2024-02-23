@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="chromedriver-win64 (1)">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/chromedriver-win64 (1)" />
+      <root url="jar://$USER_HOME$/Downloads/opencsv-5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

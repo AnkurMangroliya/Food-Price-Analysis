@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="selenium-java-4.15" level="project" />
+    <orderEntry type="library" name="seleniumhq.selenium.api" level="project" />
+    <orderEntry type="library" name="failsafe-3.3.2" level="project" />
+    <orderEntry type="library" name="guava-32.1.3-jre" level="project" />
+    <orderEntry type="library" name="chromedriver-win64 (1)" level="project" />
+    <orderEntry type="library" exported="" name="json-20231013" level="project" />
+    <orderEntry type="library" exported="" name="json-202310131" level="project" />
+    <orderEntry type="library" name="jsoup-1.16.1-sources" level="project" />
+    <orderEntry type="library" name="jsoup-1.16.2 newww" level="project" />
+    <orderEntry type="library" name="jsoup-1.16.2 newww1" level="project" />
+    <orderEntry type="library" name="jsoup-1.16.2" level="project" />
+    <orderEntry type="library" name="json-123" level="project" />
+    <orderEntry type="library" name="jfreechart-1.0.19-demo" level="project" />
+  </component>
+</module>
